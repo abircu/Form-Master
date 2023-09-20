@@ -1,9 +1,9 @@
 import "./App.css";
-import SimpleForm from "./Components/SimpleForm/SimpleForm";
+import StateFullForm from "./Components/StateFulForm/StateFullForm";
 function App() {
   return (
     <>
-      <SimpleForm />
+      <StateFullForm />
     </>
   );
 }
