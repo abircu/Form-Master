@@ -5,7 +5,7 @@ const Uncle = () => {
   const [money] = useContext(MoneyContext);
   return (
     <div className="border-2 border-amber-200 m-4 p-4">
-      <h1>uncle</h1>
+      <h1>uncles Area</h1>
       <p>Grandpa Money:{money}</p>
     </div>
   );
